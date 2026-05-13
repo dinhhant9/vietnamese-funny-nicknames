@@ -231,6 +231,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Tuấn</strong></summary>
+
+- Tứng hay nói
+
+</details>
+
+<details>
 <summary><strong>Thắng</strong></summary>
 
 - Thắng một riêu
