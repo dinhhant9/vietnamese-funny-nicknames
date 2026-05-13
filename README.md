@@ -217,6 +217,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)!
 </details>
 
 <details>
+<summary><strong>Tiến</strong></summary>
+
+- Tiến có đèo
+
+</details>
+
+<details>
 <summary><strong>Thắng</strong></summary>
 
 - Thắng một riêu
@@ -261,5 +268,22 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)!
 - Vinh sô
 
 </details>
+
+<details>
+<summary><strong>Vương</strong></summary>
+
+- Vương cú
+
+</details>
+
+---
+
+## 🤝 Những người đóng góp cho danh sách này
+
+Xin cảm ơn tất cả mọi người tuyệt vời đã đóng góp những nickname hài hước cho danh sách này.!
+
+<a href="https://github.com/dinhhant9/vietnamese-funny-nicknames/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dinhhant9/vietnamese-funny-nicknames" />
+</a>
 
 ---
