@@ -22,50 +22,9 @@
 
 ## 🤝 Đóng góp
 
-Bạn biết một cái tên nói lái cực mặn mà danh sách này chưa có? **Đừng giữ một mình — hãy chia sẻ cho cả làng cùng cười!**
+Bạn biết một cái tên nói lái cực hay mà danh sách này chưa có? **Đừng giữ một mình — hãy chia sẻ cho cả làng cùng cười!**
 
-### 🚀 Cách đóng góp
-
-#### Cách 1 — Tạo Issue (dễ nhất, không cần biết Git)
-
-1. Vào tab **[Issues](../../issues)** → nhấn **New Issue**
-2. Đặt tiêu đề theo dạng: `Thêm nickname cho tên X`
-   > Ví dụ: `Thêm nickname cho tên Đức`
-3. Trong phần mô tả, ghi rõ:
-   ```
-   Nickname đề xuất:
-   - Đức cớp
-   - Đức toàn cầu 
-   ```
-4. Nhấn **Submit** — xong! Tôi sẽ xem xét và thêm vào.
-
----
-
-#### Cách 2 — Tạo Pull Request (dành cho dân Git)
-
-**Bước 1 — Fork repo**
-
-**Bước 2 — Chỉnh sửa file `README.md`**
-
-Tìm đúng mục chữ cái, thêm nickname theo đúng format:
-
-```markdown
-<details>
-<summary><strong>Tên</strong></summary>
-
-- Tên nickname 1
-- Tên nickname 2
-
-</details>
-```
-
-> ⚠️ Giữ đúng thứ tự **alphabet**. Nếu tên đã có `<details>`, chỉ cần thêm dòng vào bên trong.
-
-**Bước 3 — Commit & Push**
-
-**Bước 4 — Tạo Pull Request vào repo này**
-
-**Bước 5 — Chờ review 🎉**
+Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)!
 
 ## 📂 Danh sách
 
