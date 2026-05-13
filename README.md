@@ -24,7 +24,7 @@
 
 Bạn biết một cái tên nói lái cực hay mà danh sách này chưa có? **Đừng giữ một mình — hãy chia sẻ cho cả làng cùng cười!**
 
-Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)!
+Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## 📂 Danh sách
 
@@ -210,6 +210,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)!
 ## T
 
 <details>
+<summary><strong>Tân</strong></summary>
+
+- Tân một cú
+
+</details>
+
+<details>
 <summary><strong>Tâm</strong></summary>
 
 - Tâm thi
@@ -286,4 +293,3 @@ Xin cảm ơn tất cả mọi người tuyệt vời đã đóng góp những n
   <img src="https://contrib.rocks/image?repo=dinhhant9/vietnamese-funny-nicknames" />
 </a>
 
----
