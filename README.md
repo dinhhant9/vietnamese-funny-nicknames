@@ -56,6 +56,14 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 </details>
 
+<details>
+<summary><strong>Bình</strong></summary>
+
+- Bình chứa tôn
+- Bình xuôi
+
+</details>
+
 ---
 
 ## C
@@ -67,9 +75,23 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 </details>
 
+<details>
+<summary><strong>Chung</strong></summary>
+
+- Chung lỉm
+
+</details>
+
 ---
 
 ## D / Đ
+
+<details>
+<summary><strong>Duy</strong></summary>
+
+- Duy thẩm
+
+</details>
 
 <details>
 <summary><strong>Đạt</strong></summary>
@@ -77,6 +99,8 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Đạt 09
 - Đạt 1 lít
 - Đạt triệu phú
+- Đạt như đại bích
+- Đạt xả lít
 
 </details>
 
@@ -84,6 +108,7 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Đại</strong></summary>
 
 - Đại du
+- Đại có thu
 
 </details>
 
@@ -112,6 +137,14 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 - Hải dưới
 - Hải dớ
+- Hải dóng
+
+</details>
+
+<details>
+<summary><strong>Huy</strong></summary>
+
+- Huy phẩn
 
 </details>
 
@@ -127,6 +160,7 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 - Hưng néo
 - Hưng náy
+- Hưng rèo
 
 </details>
 
@@ -145,6 +179,8 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Kiệt</strong></summary>
 
 - Kiệt lặc
+- Kiệt lu
+- Kiệt gì cũng bắt
 
 </details>
 
@@ -156,6 +192,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Lài</strong></summary>
 
 - Lài đẫm sương môn
+
+</details>
+
+<details>
+<summary><strong>Lợi</strong></summary>
+
+- Lợi hay đồn
 
 </details>
 
@@ -172,6 +215,14 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Long tỉnh
 - Long củ
 - Long phẩn
+
+</details>
+
+<details>
+<summary><strong>Linh</strong></summary>
+
+- Linh cồn
+- Linh thần cồn
 
 </details>
 
@@ -205,6 +256,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 </details>
 
+<details>
+<summary><strong>Quang</strong></summary>
+
+- Quang há
+
+</details>
+
 ---
 
 ## T
@@ -213,6 +271,8 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Tân</strong></summary>
 
 - Tân một cú
+- Tân đồi
+- Tân thầm
 
 </details>
 
@@ -231,9 +291,49 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Tính</strong></summary>
+
+- Tính phong
+
+</details>
+
+<details>
+<summary><strong>Tú</strong></summary>
+
+- Tú đội
+- Tú đị
+- Tú dáp
+- Tú bi
+- Tú bí
+- Tú rồi đợi
+- Tú dập me
+- Tú giỏi địa
+- Tú thợ điện
+- Cam mười Tú
+- Điệp liên Tú
+- Tí làm đủ
+- Tí là đủ
+
+</details>
+
+<details>
+<summary><strong>Tí</strong></summary>
+
+- Tí bu
+
+</details>
+
+<details>
 <summary><strong>Tuấn</strong></summary>
 
 - Tứng hay nói
+
+</details>
+
+<details>
+<summary><strong>Tùng</strong></summary>
+
+- Tùng trinh
 
 </details>
 
@@ -252,6 +352,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Thịnh</strong></summary>
+
+- Thịnh tu
+
+</details>
+
+<details>
 <summary><strong>Thắm</strong></summary>
 
 - Thắm lối
@@ -262,6 +369,14 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Trân</strong></summary>
 
 - Trân đạp phanh
+
+</details>
+
+<details>
+<summary><strong>Trí</strong></summary>
+
+- Trí đỏ
+- Trí calo
 
 </details>
 
@@ -287,6 +402,17 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Vương</strong></summary>
 
 - Vương cú
+
+</details>
+
+<details>
+<summary><strong>Vũ</strong></summary>
+
+- Vũ cơ
+- Vũ độ
+- Vũ đại
+- Vũ cây
+- Zũ đọi
 
 </details>
 
