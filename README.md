@@ -87,6 +87,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 ## D / Đ
 
 <details>
+<summary><strong>Danh</strong></summary>
+
+- Danh tái
+
+</details>
+
+<details>
 <summary><strong>Duy</strong></summary>
 
 - Duy thẩm
