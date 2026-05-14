@@ -164,6 +164,7 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Hân</strong></summary>
 
 - Hân đèo
+- Hân thự
 
 </details>
 
