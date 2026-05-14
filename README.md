@@ -300,6 +300,7 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Tiến</strong></summary>
 
 - Tiến có đèo
+- Tiến gié
 
 </details>
 
