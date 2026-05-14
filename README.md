@@ -394,6 +394,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Thu</strong></summary>
+
+- Thu đạm
+
+</details>
+
+<details>
 <summary><strong>Thắm</strong></summary>
 
 - Thắm lối
