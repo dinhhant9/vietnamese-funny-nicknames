@@ -216,6 +216,14 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Lanh</strong></summary>
+
+- Lanh tồn
+- Lanh bồn
+
+</details>
+
+<details>
 <summary><strong>Lợi</strong></summary>
 
 - Lợi hay đồn
