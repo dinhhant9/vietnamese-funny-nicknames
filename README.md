@@ -76,6 +76,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Công</strong></summary>
+
+- Công ngủ
+
+</details>
+
+<details>
 <summary><strong>Chung</strong></summary>
 
 - Chung lỉm
@@ -280,6 +287,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Núi</strong></summary>
 
 - Núi lắm rừng
+
+</details>
+
+<details>
+<summary><strong>Nghiêm</strong></summary>
+
+- Nghiêm chỉnh
 
 </details>
 
