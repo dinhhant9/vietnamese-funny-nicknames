@@ -53,6 +53,7 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Bốn</strong></summary>
 
 - Bốn tung lằn
+- Bốn không lòng
 
 </details>
 
