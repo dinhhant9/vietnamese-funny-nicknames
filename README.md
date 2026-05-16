@@ -120,6 +120,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Đàm</strong></summary>
+
+- Đàm tính nông
+
+</details>
+
+<details>
 <summary><strong>Đức</strong></summary>
 
 - Đức toàn cầu
