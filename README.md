@@ -299,6 +299,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Ngân</strong></summary>
+
+- Ngân đù
+
+</details>
+
+<details>
 <summary><strong>Nghiêm</strong></summary>
 
 - Nghiêm chỉnh
