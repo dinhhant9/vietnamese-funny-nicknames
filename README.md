@@ -97,6 +97,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 </details>
 
+<details>
+<summary><strong>Chiến</strong></summary>
+
+- Chiến thó
+
+</details>
+
 ---
 
 ## D / Đ
