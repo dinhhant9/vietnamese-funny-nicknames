@@ -424,6 +424,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Tốt</strong></summary>
+
+- Tốt làm
+
+</details>
+
+<details>
 <summary><strong>Tuấn</strong></summary>
 
 - Tứng hay nói
