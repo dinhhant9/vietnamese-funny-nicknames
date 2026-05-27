@@ -541,7 +541,15 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Trí</strong></summary>
 
 - Trí đỏ
+- Trí mặt đỏ
 - Trí calo
+
+</details>
+
+<details>
+<summary><strong>Trung</strong></summary>
+
+- Trung tình
 
 </details>
 
