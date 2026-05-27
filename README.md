@@ -292,6 +292,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Lộc</strong></summary>
+
+- Lộc không căng
+
+</details>
+
+<details>
 <summary><strong>Lâm</strong></summary>
 
 - Lâm thồn
