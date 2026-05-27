@@ -567,6 +567,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Trang</strong></summary>
+
+- Rách mình trang
+
+</details>
+
+<details>
 <summary><strong>Trí</strong></summary>
 
 - Trí đỏ
