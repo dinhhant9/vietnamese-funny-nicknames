@@ -91,6 +91,14 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Cụ / Cù</strong></summary>
+
+- Cụ lao công
+- Cù đận
+
+</details>
+
+<details>
 <summary><strong>Công</strong></summary>
 
 - Công ngủ
