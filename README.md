@@ -145,6 +145,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Dứa</strong></summary>
+
+- Dứa ngại
+
+</details>
+
+<details>
 <summary><strong>Đạt</strong></summary>
 
 - Đạt 09
