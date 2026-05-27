@@ -149,6 +149,17 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Đạo</strong></summary>
+
+- Đạo dụ
+- Đạo ù ù
+- Đạo bi
+- Đạo tàn bụ
+- Đạo không bu
+
+</details>
+
+<details>
 <summary><strong>Đàm</strong></summary>
 
 - Đàm tính nông
