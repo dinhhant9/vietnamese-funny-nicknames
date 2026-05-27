@@ -77,6 +77,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 ## C
 
 <details>
+<summary><strong>Cá</strong></summary>
+
+- Cá chà bặc
+
+</details>
+
+<details>
 <summary><strong>Cúc</strong></summary>
 
 - Cúc thu
@@ -243,6 +250,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 ---
 
 ## L
+
+<details>
+<summary><strong>Lá</strong></summary>
+
+- Lá chà bồn
+
+</details>
 
 <details>
 <summary><strong>Lài</strong></summary>
