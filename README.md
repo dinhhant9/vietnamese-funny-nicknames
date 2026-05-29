@@ -192,6 +192,7 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Đạo bi
 - Đạo tàn bụ
 - Đạo không bu
+- Đạo cô giú
 
 </details>
 
