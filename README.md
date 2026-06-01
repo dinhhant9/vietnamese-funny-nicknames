@@ -330,6 +330,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Lành</strong></summary>
+
+- Lành chành bồn
+
+</details>
+
+<details>
 <summary><strong>Lợi</strong></summary>
 
 - Lợi hay đồn
