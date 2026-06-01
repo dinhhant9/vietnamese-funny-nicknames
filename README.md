@@ -272,6 +272,7 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Hưng néo
 - Hưng náy
 - Hưng rèo
+- Hưng sáng
 
 </details>
 
