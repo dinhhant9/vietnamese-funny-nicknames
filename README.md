@@ -651,6 +651,17 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
+## X
+
+<details>
+<summary><strong>Xuân</strong></summary>
+
+- Tích Xuân
+
+</details>
+
+---
+
 ## 🤝 Những người đóng góp cho danh sách này
 
 Xin cảm ơn tất cả mọi người tuyệt vời đã đóng góp những nickname hài hước cho danh sách này.!
