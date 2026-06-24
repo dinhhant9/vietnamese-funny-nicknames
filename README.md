@@ -116,6 +116,7 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Cúc</strong></summary>
 
 - Cúc thu
+- Cúc dịch
 
 </details>
 
