@@ -87,6 +87,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 </details>
 
+<details>
+<summary><strong>Bích</strong></summary>
+
+- Bích đú
+
+</details>
+
 ---
 
 ## C
