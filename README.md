@@ -38,6 +38,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 </details>
 
+<details>
+<summary><strong>Ân</strong></summary>
+
+- Ân phăn
+
+</details>
+
 ---
 
 ## B
@@ -53,6 +60,7 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Bắc</strong></summary>
 
 - Bắc cọp
+- Nếp ngoài bắc
 
 </details>
 
@@ -60,6 +68,7 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Bằng</strong></summary>
 
 - Bằng xe tuôi
+- Bằng lủng luổi
 
 </details>
 
@@ -83,7 +92,10 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 - Bình chứa tôn
 - Bình xuôi
-- Bifnh phuồi
+- Bình phuồi
+- Bình hôi ruồi
+- Bình thối ruồi
+- Bình kuôi
 
 </details>
 
@@ -91,6 +103,7 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Bích</strong></summary>
 
 - Bích đú
+- Bích thuồi
 
 </details>
 
@@ -136,9 +149,20 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Cường</strong></summary>
+
+- Cường buôi
+- Cường cang
+
+</details>
+
+<details>
 <summary><strong>Công</strong></summary>
 
 - Công ngủ
+- Cụ lao công
+- Công lặc
+- Công luis (lu ít)
 
 </details>
 
@@ -167,6 +191,14 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Chiến</strong></summary>
 
 - Chiến thó
+- Chiến đo
+
+</details>
+
+<details>
+<summary><strong>Chính</strong></summary>
+
+- Chính nát bươm
 
 </details>
 
@@ -189,9 +221,31 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Dung</strong></summary>
+
+- Dung tái
+
+</details>
+
+<details>
+<summary><strong>Dũng</strong></summary>
+
+- Dũng lái
+
+</details>
+
+<details>
 <summary><strong>Dứa</strong></summary>
 
 - Dứa ngại
+
+</details>
+
+<details>
+<summary><strong>Dương</strong></summary>
+
+- Dương cái
+- Dương hết trề
 
 </details>
 
@@ -203,6 +257,11 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Đạt triệu phú
 - Đạt như đại bích
 - Đạt xả lít
+- Đạt bánh
+- Đạt mê min
+- Đạt tao nhĩ
+- Đạt tung phỉn
+- Đạt phít
 
 </details>
 
@@ -211,6 +270,8 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 - Đại du
 - Đại có thu
+- Vũ đại
+- Đại trượng phu
 
 </details>
 
@@ -227,6 +288,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Đậu</strong></summary>
+
+- Củ đậu
+
+</details>
+
+<details>
 <summary><strong>Đàm</strong></summary>
 
 - Đàm tính nông
@@ -239,6 +307,9 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Đức toàn cầu
 - Đức cống
 - Đức cớp
+- Đức cút
+- Đức cạp
+- Đức hết sịt
 
 </details>
 
@@ -246,6 +317,7 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Điệp</strong></summary>
 
 - Điệp liên tú
+- Điệp tít
 
 </details>
 
@@ -260,6 +332,7 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Đông</strong></summary>
 
 - Đông lít
+- Đông thít
 
 </details>
 
@@ -294,6 +367,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Hai</strong></summary>
+
+- Hai dối
+
+</details>
+
+<details>
 <summary><strong>Hải</strong></summary>
 
 - Hải dưới
@@ -306,6 +386,20 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Huy</strong></summary>
 
 - Huy phẩn
+
+</details>
+
+<details>
+<summary><strong>Hùng</strong></summary>
+
+- Hùng lôn
+
+</details>
+
+<details>
+<summary><strong>Huyền</strong></summary>
+
+- Huyền cả lộn
 
 </details>
 
@@ -324,6 +418,7 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Hưng náy
 - Hưng rèo
 - Hưng sáng
+- Hưng nới
 
 </details>
 
@@ -338,6 +433,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Hiếu</strong></summary>
 
 - Hiếu thòn
+
+</details>
+
+<details>
+<summary><strong>Hoà</strong></summary>
+
+- Hoà văn lốn
 
 </details>
 
@@ -362,7 +464,22 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 </details>
 
+<details>
+<summary><strong>Kiên</strong></summary>
+
+- Kiên đầu thú
+
+</details>
+
+<details>
+<summary><strong>Khải</strong></summary>
+
+- Khải đói
+
+</details>
+
 ---
+
 
 ## L
 
@@ -374,9 +491,33 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Lan</strong></summary>
+
+- Lan tồn
+
+</details>
+
+<details>
 <summary><strong>Lài</strong></summary>
 
 - Lài đẫm sương môn
+- Lài dói
+- Lài dốn
+- Lài dồn
+
+</details>
+
+<details>
+<summary><strong>Làng</strong></summary>
+
+- Làng không có iPhone
+
+</details>
+
+<details>
+<summary><strong>Láo</strong></summary>
+
+- Láo sạch âm điệm
 
 </details>
 
@@ -392,6 +533,27 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Lành</strong></summary>
 
 - Lành chành bồn
+
+</details>
+
+<details>
+<summary><strong>Lăng</strong></summary>
+
+- Lăng cọc
+
+</details>
+
+<details>
+<summary><strong>Lệ</strong></summary>
+
+- Lệ xồn
+
+</details>
+
+<details>
+<summary><strong>Loan</strong></summary>
+
+- Loan khồn
 
 </details>
 
@@ -413,6 +575,7 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Lâm</strong></summary>
 
 - Lâm thồn
+- Lâm vào đồn
 
 </details>
 
@@ -432,6 +595,14 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Linh thần cồn
 - Linh xồn xồn
 - Linh có cồn
+- Linh đóng đồn
+
+</details>
+
+<details>
+<summary><strong>Liên</strong></summary>
+
+- Liên xồn
 
 </details>
 
@@ -443,8 +614,9 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Mai</strong></summary>
 
 - Mai dù
-- Mai đói
+- Mai dói
 - Mai hồng vũ
+- Mai dắm
 
 </details>
 
@@ -459,6 +631,21 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Mười</strong></summary>
 
 - Mười ở gió
+
+</details>
+
+<details>
+<summary><strong>My / Mi</strong></summary>
+
+- My tốc
+- My tẩy
+
+</details>
+
+<details>
+<summary><strong>Minh</strong></summary>
+
+- Minh chất
 
 </details>
 
@@ -495,9 +682,30 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Ngô</strong></summary>
+
+- Ngô như bú
+
+</details>
+
+<details>
 <summary><strong>Nghiêm</strong></summary>
 
 - Nghiêm chỉnh
+
+</details>
+
+<details>
+<summary><strong>Nhân</strong></summary>
+
+- Nhân phão
+
+</details>
+
+<details>
+<summary><strong>Nhi</strong></summary>
+
+- Nhi chỡi lộ
 
 </details>
 
@@ -509,6 +717,15 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Phong</strong></summary>
 
 - Phong củ
+
+</details>
+
+---
+
+<details>
+<summary><strong>Phương</strong></summary>
+
+- Phương trên giàng
 
 </details>
 
@@ -533,6 +750,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 ---
 
 ## S
+
+<details>
+<summary><strong>Sắc</strong></summary>
+
+- Sắc cục
+
+</details>
 
 <details>
 <summary><strong>Su</strong></summary>
@@ -593,6 +817,10 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Điệp liên Tú
 - Tí làm đủ
 - Tí là đủ
+- Tú đi tường
+- Tú đi sồ
+- Tú binh
+- Tú vo
 
 </details>
 
@@ -607,6 +835,14 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Tốt</strong></summary>
 
 - Tốt làm
+
+</details>
+
+<details>
+<summary><strong>Tôn</strong></summary>
+
+- Bình chứa Tôn
+- Tôn lề
 
 </details>
 
@@ -637,6 +873,14 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 - Thái dúi
 - Thái diến
+- Thái dốn
+
+</details>
+
+<details>
+<summary><strong>Thế</strong></summary>
+
+- Thế lề dài
 
 </details>
 
@@ -658,6 +902,12 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Thu</strong></summary>
 
 - Thu đạm
+- Thu dẩm
+- Thu cọt
+- Thu cẳng
+- Thu cối
+- Thu câm
+- Thu cúc
 
 </details>
 
@@ -676,9 +926,17 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Trâm</strong></summary>
+
+- Trâm bìm
+
+</details>
+
+<details>
 <summary><strong>Trang</strong></summary>
 
 - Rách mình trang
+- Trang dịm
 
 </details>
 
@@ -706,6 +964,7 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Việt</strong></summary>
 
 - Việt dương lật
+- Việt lú
 
 </details>
 
