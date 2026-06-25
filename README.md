@@ -865,6 +865,7 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 - Thắng một riêu
 - Thắng con kiệt
+- Trò thắng
 
 </details>
 
