@@ -909,6 +909,7 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Thu cối
 - Thu câm
 - Thu cúc
+- Cơm thu
 
 </details>
 
