@@ -50,6 +50,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 ## B
 
 <details>
+<summary><strong>Ba</strong></summary>
+
+- Ba chà cú
+
+</details>
+
+<details>
 <summary><strong>Bách</strong></summary>
 
 - Bách ruồi
