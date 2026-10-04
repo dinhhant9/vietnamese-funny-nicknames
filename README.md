@@ -160,6 +160,7 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 - Cường buôi
 - Cường cang
+- Cường sơn tặc
 
 </details>
 
