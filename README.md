@@ -284,6 +284,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Đài</strong></summary>
+
+- Đài giấm
+
+</details>
+
+<details>
 <summary><strong>Đạo</strong></summary>
 
 - Đạo dụ
