@@ -552,6 +552,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Làng</strong></summary>
+
+- Làng không iPhone
+
+</details>
+
+<details>
 <summary><strong>Lăng</strong></summary>
 
 - Lăng cọc
