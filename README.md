@@ -337,6 +337,13 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 </details>
 
 <details>
+<summary><strong>Điệu</strong></summary>
+
+- Điệu trăm củ
+
+</details>
+
+<details>
 <summary><strong>Đoan / Đon</strong></summary>
 
 - Đon gái nụ
