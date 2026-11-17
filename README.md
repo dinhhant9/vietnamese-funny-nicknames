@@ -1046,6 +1046,14 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
+## 🤝 Một số câu nói lái hay để làm nicknames
+- Làm ồn là tỉnh
+- Em bước ra nắng
+- Mừng cho em nó
+- Tu phải đạo
+
+---
+
 ## 🤝 Những người đóng góp cho danh sách này
 
 Xin cảm ơn tất cả mọi người tuyệt vời đã đóng góp những nickname hài hước cho danh sách này.!
